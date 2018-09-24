@@ -1,0 +1,6 @@
+/home/siyahas/CLionProjects/system_hw3/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/siyahas/CLionProjects/system_hw3/cmake-build-debug/CMakeFiles/wc.dir
+/home/siyahas/CLionProjects/system_hw3/cmake-build-debug/CMakeFiles/cat.dir
+/home/siyahas/CLionProjects/system_hw3/cmake-build-debug/CMakeFiles/ls.dir
+/home/siyahas/CLionProjects/system_hw3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/siyahas/CLionProjects/system_hw3/cmake-build-debug/CMakeFiles/system_hw3.dir

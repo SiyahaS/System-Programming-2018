@@ -1,0 +1,163 @@
+Chef1 is waiting for FLOUR and EGG
+Chef2 is waiting for EGG and BUTTER
+Chef3 is waiting for EGG and SUGAR
+Chef4 is waiting for FLOUR and BUTTER
+Chef5 is waiting for FLOUR and SUGAR
+Chef6 is waiting for BUTTER and SUGAR
+Wholesaler delivers EGG and BUTTER
+Chef2 has taken EGG and BUTTER
+Chef2 is waiting for EGG and BUTTER
+Wholesaler delivers FLOUR and SUGAR
+Chef5 has taken FLOUR and SUGAR
+Chef5 is waiting for FLOUR and SUGAR
+Wholesaler delivers FLOUR and BUTTER
+Chef4 has taken FLOUR and BUTTER
+Chef4 is waiting for FLOUR and BUTTER
+Wholesaler delivers EGG and BUTTER
+Chef2 has taken EGG and BUTTER
+Chef2 is waiting for EGG and BUTTER
+Wholesaler delivers BUTTER and SUGAR
+Chef6 has taken BUTTER and SUGAR
+Chef6 is waiting for BUTTER and SUGAR
+Wholesaler delivers EGG and BUTTER
+Chef2 has taken EGG and BUTTER
+Chef2 is waiting for EGG and BUTTER
+Wholesaler delivers FLOUR and SUGAR
+Chef5 has taken FLOUR and SUGAR
+Chef5 is waiting for FLOUR and SUGAR
+Wholesaler delivers EGG and FLOUR
+Chef1 has taken FLOUR and EGG
+Chef1 is waiting for FLOUR and EGG
+Wholesaler delivers FLOUR and BUTTER
+Chef4 has taken FLOUR and BUTTER
+Chef4 is waiting for FLOUR and BUTTER
+Wholesaler delivers EGG and BUTTER
+Chef2 has taken EGG and BUTTER
+Chef2 is waiting for EGG and BUTTER
+Wholesaler delivers EGG and SUGAR
+Chef3 has taken EGG and SUGAR
+Chef3 is waiting for EGG and SUGAR
+Wholesaler delivers EGG and BUTTER
+Chef2 has taken EGG and BUTTER
+Chef2 is waiting for EGG and BUTTER
+Wholesaler delivers EGG and SUGAR
+Chef3 has taken EGG and SUGAR
+Chef3 is waiting for EGG and SUGAR
+Wholesaler delivers EGG and BUTTER
+Chef2 has taken EGG and BUTTER
+Chef2 is waiting for EGG and BUTTER
+Wholesaler delivers BUTTER and SUGAR
+Chef6 has taken BUTTER and SUGAR
+Chef6 is waiting for BUTTER and SUGAR
+Wholesaler delivers FLOUR and SUGAR
+Chef5 has taken FLOUR and SUGAR
+Chef5 is waiting for FLOUR and SUGAR
+Wholesaler delivers EGG and FLOUR
+Chef1 has taken FLOUR and EGG
+Chef1 is waiting for FLOUR and EGG
+Wholesaler delivers EGG and FLOUR
+Chef1 has taken FLOUR and EGG
+Chef1 is waiting for FLOUR and EGG
+Wholesaler delivers FLOUR and SUGAR
+Chef5 has taken FLOUR and SUGAR
+Chef5 is waiting for FLOUR and SUGAR
+Wholesaler delivers FLOUR and SUGAR
+Chef5 has taken FLOUR and SUGAR
+Chef5 is waiting for FLOUR and SUGAR
+r(): [4693]sigint recv
+DEBUG: /home/siyahas/CLionProjects/system_hw4/main.c:274:signalHandler(): [4689]sigint recv
+DEBUG: /home/siyahas/CLionProjects/system_hw4/main.c:196:main(): [4689]random[1]: 
+DEBUG: /home/siyahas/CLionProjects/system_hw4/main.c:205:main(): [4689]EGG and BUTTER
+DEBUG: /home/siyahas/CLionProjects/system_hw4/main.c:191:main(): [4689]sem_wait producer success
+DEBUG: /home/siyahas/CLionProjects/system_hw4/main.c:196:main(): [4689]random[4]: 
+DEBUG: /home/siyahas/CLionProjects/system_hw4/main.c:217:main(): [4689]FLOUR and SUGAR
+DEBUG: /home/siyahas/CLionProjects/system_hw4/main.c:191:main(): [4689]sem_wait producer success
+DEBUG: /home/siyahas/CLionProjects/system_hw4/main.c:196:main(): [4689]random[3]: 
+DEBUG: /home/siyahas/CLionProjects/system_hw4/main.c:213:main(): [4689]FLOUR and BUTTER
+DEBUG: /home/siyahas/CLionProjects/system_hw4/main.c:191:main(): [4689]sem_wait producer success
+DEBUG: /home/siyahas/CLionProjects/system_hw4/main.c:274:signalHandler(): [4695]sigint recv
+DEBUG: /home/siyahas/CLionProjects/system_hw4/main.c:274:signalHandler(): [4694]sigint recv
+DEBUG: /home/siyahas/CLionProjects/system_hw4/main.c:274:signalHandler(): [4692]sigint recv
+DEBUG: /home/siyahas/CLionProjects/system_hw4/main.c:274:signalHandler(): [4691]sigint recv
+DEBUG: /home/siyahas/CLionProjects/system_hw4/main.c:274:signalHandler(): [4690]sigint recv
+DEBUG: /home/siyahas/CLionProjects/system_hw4/main.c:274:signalHandler(): [4693]sigint recv
+DEBUG: /home/siyahas/CLionProjects/system_hw4/main.c:274:signalHandler(): [4689]sigint recv
+DEBUG: /home/siyahas/CLionProjects/system_hw4/main.c:196:main(): [4689]random[1]: 
+DEBUG: /home/siyahas/CLionProjects/system_hw4/main.c:205:main(): [4689]EGG and BUTTER
+DEBUG: /home/siyahas/CLionProjects/system_hw4/main.c:191:main(): [4689]sem_wait producer success
+DEBUG: /home/siyahas/CLionProjects/system_hw4/main.c:274:signalHandler(): [4695]sigint recv
+DEBUG: /home/siyahas/CLionProjects/system_hw4/main.c:274:signalHandler(): [4692]sigint recv
+DEBUG: /home/siyahas/CLionProjects/system_hw4/main.c:274:signalHandler(): [4691]sigint recv
+DEBUG: /home/siyahas/CLionProjects/system_hw4/main.c:274:signalHandler(): [4690]sigint recv
+DEBUG: /home/siyahas/CLionProjects/system_hw4/main.c:274:signalHandler(): [4693]sigint recv
+DEBUG: /home/siyahas/CLionProjects/system_hw4/main.c:274:signalHandler(): [4694]sigint recv
+DEBUG: /home/siyahas/CLionProjects/system_hw4/main.c:274:signalHandler(): [4689]sigint recv
+DEBUG: /home/siyahas/CLionProjects/system_hw4/main.c:196:main(): [4689]random[5]: 
+DEBUG: /home/siyahas/CLionProjects/system_hw4/main.c:221:main(): [4689]BUTTER and SUGAR
+DEBUG: /home/siyahas/CLionProjects/system_hw4/main.c:191:main(): [4689]sem_wait producer success
+DEBUG: /home/siyahas/CLionProjects/system_hw4/main.c:274:signalHandler(): [4692]sigint recv
+DEBUG: /home/siyahas/CLionProjects/system_hw4/main.c:274:signalHandler(): [4693]sigint recv
+DEBUG: /home/siyahas/CLionProjects/system_hw4/main.c:274:signalHandler(): [4695]sigint recv
+DEBUG: /home/siyahas/CLionProjects/system_hw4/main.c:274:signalHandler(): [4694]sigint recv
+DEBUG: /home/siyahas/CLionProjects/system_hw4/main.c:274:signalHandler(): [4689]sigint recv
+DEBUG: /home/siyahas/CLionProjects/system_hw4/main.c:274:signalHandler(): [4691]sigint recv
+DEBUG: /home/siyahas/CLionProjects/system_hw4/main.c:196:main(): [4689]random[1]: 
+DEBUG: /home/siyahas/CLionProjects/system_hw4/main.c:274:signalHandler(): [4690]sigint recv
+DEBUG: /home/siyahas/CLionProjects/system_hw4/main.c:205:main(): [4689]EGG and BUTTER
+DEBUG: /home/siyahas/CLionProjects/system_hw4/main.c:191:main(): [4689]sem_wait producer success
+DEBUG: /home/siyahas/CLionProjects/system_hw4/main.c:274:signalHandler(): [4694]sigint recv
+DEBUG: /home/siyahas/CLionProjects/system_hw4/main.c:274:signalHandler(): [4689]sigint recv
+DEBUG: /home/siyahas/CLionProjects/system_hw4/main.c:274:signalHandler(): [4692]sigint recv
+DEBUG: /home/siyahas/CLionProjects/system_hw4/main.c:274:signalHandler(): [4695]sigint recv
+DEBUG: /home/siyahas/CLionProjects/system_hw4/main.c:196:main(): [4689]random[4]: 
+DEBUG: /home/siyahas/CLionProjects/system_hw4/main.c:217:main(): [4689]FLOUR and SUGAR
+DEBUG: /home/siyahas/CLionProjects/system_hw4/main.c:274:signalHandler(): [4691]sigint recv
+DEBUG: /home/siyahas/CLionProjects/system_hw4/main.c:274:signalHandler(): [4690]sigint recv
+DEBUG: /home/siyahas/CLionProjects/system_hw4/main.c:274:signalHandler(): [4693]sigint recv
+DEBUG: /home/siyahas/CLionProjects/system_hw4/main.c:191:main(): [4689]sem_wait producer success
+DEBUG: /home/siyahas/CLionProjects/system_hw4/main.c:274:signalHandler(): [4694]sigint recv
+DEBUG: /home/siyahas/CLionProjects/system_hw4/main.c:274:signalHandler(): [4689]sigint recv
+DEBUG: /home/siyahas/CLionProjects/system_hw4/main.c:274:signalHandler(): [4692]sigint recv
+DEBUG: /home/siyahas/CLionProjects/system_hw4/main.c:196:main(): [4689]random[0]: 
+DEBUG: /home/siyahas/CLionProjects/system_hw4/main.c:201:main(): [4689]EGG and FLOUR
+DEBUG: /home/siyahas/CLionProjects/system_hw4/main.c:274:signalHandler(): [4695]sigint recv
+DEBUG: /home/siyahas/CLionProjects/system_hw4/main.c:274:signalHandler(): [4691]sigint recv
+DEBUG: /home/siyahas/CLionProjects/system_hw4/main.c:274:signalHandler(): [4690]sigint recv
+DEBUG: /home/siyahas/CLionProjects/system_hw4/main.c:191:main(): [4689]sem_wait producer success
+DEBUG: /home/siyahas/CLionProjects/system_hw4/main.c:274:signalHandler(): [4693]sigint recv
+DEBUG: /home/siyahas/CLionProjects/system_hw4/main.c:196:main(): [4689]random[3]: 
+DEBUG: /home/siyahas/CLionProjects/system_hw4/main.c:213:main(): [4689]FLOUR and BUTTER
+DEBUG: /home/siyahas/CLionProjects/system_hw4/main.c:191:main(): [4689]sem_wait producer success
+DEBUG: /home/siyahas/CLionProjects/system_hw4/main.c:196:main(): [4689]random[1]: 
+DEBUG: /home/siyahas/CLionProjects/system_hw4/main.c:205:main(): [4689]EGG and BUTTER
+DEBUG: /home/siyahas/CLionProjects/system_hw4/main.c:191:main(): [4689]sem_wait producer success
+DEBUG: /home/siyahas/CLionProjects/system_hw4/main.c:196:main(): [4689]random[2]: 
+DEBUG: /home/siyahas/CLionProjects/system_hw4/main.c:209:main(): [4689]EGG and SUGAR
+DEBUG: /home/siyahas/CLionProjects/system_hw4/main.c:191:main(): [4689]sem_wait producer success
+DEBUG: /home/siyahas/CLionProjects/system_hw4/main.c:196:main(): [4689]random[1]: 
+DEBUG: /home/siyahas/CLionProjects/system_hw4/main.c:205:main(): [4689]EGG and BUTTER
+DEBUG: /home/siyahas/CLionProjects/system_hw4/main.c:191:main(): [4689]sem_wait producer success
+DEBUG: /home/siyahas/CLionProjects/system_hw4/main.c:196:main(): [4689]random[2]: 
+DEBUG: /home/siyahas/CLionProjects/system_hw4/main.c:209:main(): [4689]EGG and SUGAR
+DEBUG: /home/siyahas/CLionProjects/system_hw4/main.c:191:main(): [4689]sem_wait producer success
+DEBUG: /home/siyahas/CLionProjects/system_hw4/main.c:196:main(): [4689]random[1]: 
+DEBUG: /home/siyahas/CLionProjects/system_hw4/main.c:205:main(): [4689]EGG and BUTTER
+DEBUG: /home/siyahas/CLionProjects/system_hw4/main.c:191:main(): [4689]sem_wait producer success
+DEBUG: /home/siyahas/CLionProjects/system_hw4/main.c:196:main(): [4689]random[5]: 
+DEBUG: /home/siyahas/CLionProjects/system_hw4/main.c:221:main(): [4689]BUTTER and SUGAR
+DEBUG: /home/siyahas/CLionProjects/system_hw4/main.c:191:main(): [4689]sem_wait producer success
+DEBUG: /home/siyahas/CLionProjects/system_hw4/main.c:196:main(): [4689]random[4]: 
+DEBUG: /home/siyahas/CLionProjects/system_hw4/main.c:217:main(): [4689]FLOUR and SUGAR
+DEBUG: /home/siyahas/CLionProjects/system_hw4/main.c:191:main(): [4689]sem_wait producer success
+DEBUG: /home/siyahas/CLionProjects/system_hw4/main.c:196:main(): [4689]random[0]: 
+DEBUG: /home/siyahas/CLionProjects/system_hw4/main.c:201:main(): [4689]EGG and FLOUR
+DEBUG: /home/siyahas/CLionProjects/system_hw4/main.c:191:main(): [4689]sem_wait producer success
+DEBUG: /home/siyahas/CLionProjects/system_hw4/main.c:196:main(): [4689]random[0]: 
+DEBUG: /home/siyahas/CLionProjects/system_hw4/main.c:201:main(): [4689]EGG and FLOUR
+DEBUG: /home/siyahas/CLionProjects/system_hw4/main.c:191:main(): [4689]sem_wait producer success
+DEBUG: /home/siyahas/CLionProjects/system_hw4/main.c:196:main(): [4689]random[4]: 
+DEBUG: /home/siyahas/CLionProjects/system_hw4/main.c:217:main(): [4689]FLOUR and SUGAR
+DEBUG: /home/siyahas/CLionProjects/system_hw4/main.c:191:main(): [4689]sem_wait producer success
+DEBUG: /home/siyahas/CLionProjects/system_hw4/main.c:196:main(): [4689]random[4]: 
+DEBUG: /home/siyahas/CLionProjects/system_hw4/main.c:217:main(): [4689]FLOUR and SUGAR
+DEBUG: /home/siyahas/CLionProjects/system_hw4/main.c:191:main(): [4689]sem_wait producer success

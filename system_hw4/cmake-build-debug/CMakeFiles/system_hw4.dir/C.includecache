@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/siyahas/CLionProjects/system_hw4/main.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+semaphore.h
+-
+fcntl.h
+-
+unistd.h
+-
+sys/shm.h
+-
+sys/mman.h
+-
+sys/stat.h
+-
+sys/types.h
+-
+errno.h
+-
+signal.h
+-
+sys/wait.h
+-
+

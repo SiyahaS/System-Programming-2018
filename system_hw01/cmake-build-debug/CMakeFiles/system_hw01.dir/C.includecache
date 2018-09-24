@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/siyahas/CLionProjects/system_hw01/main.c
+stdio.h
+-
+errno.h
+-
+tiff.h
+/home/siyahas/CLionProjects/system_hw01/tiff.h
+
+/home/siyahas/CLionProjects/system_hw01/tiff.c
+string.h
+-
+tiff.h
+/home/siyahas/CLionProjects/system_hw01/tiff.h
+
+/home/siyahas/CLionProjects/system_hw01/tiff.h
+stdio.h
+-
+stdlib.h
+-
+unistd.h
+-
+sys/types.h
+-
+sys/stat.h
+-
+fcntl.h
+-
+stdint.h
+-
+stdbool.h
+-
+endian.h
+-
+

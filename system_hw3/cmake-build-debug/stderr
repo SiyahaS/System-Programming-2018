@@ -1,0 +1,17 @@
+DEBUG: /home/siyahas/CLionProjects/system_hw3/tokenizer.c:68:tokenizer_next(): [TOKENIZER][NEXT] 99
+DEBUG: /home/siyahas/CLionProjects/system_hw3/tokenizer.c:105:tokenizer_next(): [TOKENIZER][(KEY)WORD] 97
+DEBUG: /home/siyahas/CLionProjects/system_hw3/tokenizer.c:105:tokenizer_next(): [TOKENIZER][(KEY)WORD] 116
+DEBUG: /home/siyahas/CLionProjects/system_hw3/tokenizer.c:105:tokenizer_next(): [TOKENIZER][(KEY)WORD] 32
+DEBUG: /home/siyahas/CLionProjects/system_hw3/tokenizer.c:141:tokenizer_next(): [TOKENIZER][WORD] cat
+DEBUG: /home/siyahas/CLionProjects/system_hw3/main.c:118:parseCommand(): EXECUTABLE: cat
+DEBUG: /home/siyahas/CLionProjects/system_hw3/tokenizer.c:68:tokenizer_next(): [TOKENIZER][NEXT] 116
+DEBUG: /home/siyahas/CLionProjects/system_hw3/tokenizer.c:105:tokenizer_next(): [TOKENIZER][(KEY)WORD] 101
+DEBUG: /home/siyahas/CLionProjects/system_hw3/tokenizer.c:105:tokenizer_next(): [TOKENIZER][(KEY)WORD] 115
+DEBUG: /home/siyahas/CLionProjects/system_hw3/tokenizer.c:105:tokenizer_next(): [TOKENIZER][(KEY)WORD] 116
+DEBUG: /home/siyahas/CLionProjects/system_hw3/tokenizer.c:105:tokenizer_next(): [TOKENIZER][(KEY)WORD] 46
+DEBUG: /home/siyahas/CLionProjects/system_hw3/tokenizer.c:105:tokenizer_next(): [TOKENIZER][(KEY)WORD] 116
+DEBUG: /home/siyahas/CLionProjects/system_hw3/tokenizer.c:105:tokenizer_next(): [TOKENIZER][(KEY)WORD] 120
+DEBUG: /home/siyahas/CLionProjects/system_hw3/tokenizer.c:105:tokenizer_next(): [TOKENIZER][(KEY)WORD] 116
+DEBUG: /home/siyahas/CLionProjects/system_hw3/tokenizer.c:105:tokenizer_next(): [TOKENIZER][(KEY)WORD] 10
+DEBUG: /home/siyahas/CLionProjects/system_hw3/tokenizer.c:141:tokenizer_next(): [TOKENIZER][WORD] test.txt
+DEBUG: /home/siyahas/CLionProjects/system_hw3/main.c:153:parseCommand(): ARGUMENT ADDED: test.txt

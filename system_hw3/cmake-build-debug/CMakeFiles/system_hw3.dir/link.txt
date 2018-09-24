@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/system_hw3.dir/main.c.o CMakeFiles/system_hw3.dir/tokenizer.c.o CMakeFiles/system_hw3.dir/reader.c.o CMakeFiles/system_hw3.dir/dynamic.c.o  -o system_hw3 
